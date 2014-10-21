@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">EatWhat</string>
+    <string name="action_settings">Settings</string>
+    <string name="eatWhatTitle">今天吃什么呢？</string>
+    <string name="start">帮我选！</string>
+	
+</resources>
